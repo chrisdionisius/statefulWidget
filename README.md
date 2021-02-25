@@ -1,6 +1,15 @@
 # termometer
 
-A new Flutter project.
+Jobsheet 3 - Project Konverter Suhu
+
+Dionisius Damarta Yapenrui
+1931710111
+MI-2B
+
+## Screenshoot
+
+![SS 1](images/1.png)
+![SS 2](images/2.png)
 
 ## Getting Started
 
